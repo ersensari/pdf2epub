@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+
+# Runtime data (uploaded PDFs, generated EPUBs)
+data/
+
+# OS / editor
+.DS_Store

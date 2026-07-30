@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/components/bookpreviewcard.tsx","./src/components/downloadbutton.tsx","./src/components/progressview.tsx","./src/components/uploaddropzone.tsx","./src/hooks/usejobprogress.ts"],"version":"5.9.3"}
