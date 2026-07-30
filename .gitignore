@@ -13,5 +13,9 @@ dist/
 # Runtime data (uploaded PDFs, generated EPUBs)
 data/
 
+#env files
+.env
+.env.local
+
 # OS / editor
 .DS_Store
